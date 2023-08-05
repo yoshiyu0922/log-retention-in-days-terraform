@@ -1,0 +1,8 @@
+# Mac
+.DS_Store
+
+# IntelliJ
+.idea/
+
+# Local .terraform directories
+.terraform/*
